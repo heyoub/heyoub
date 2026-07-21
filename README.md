@@ -1,8 +1,12 @@
-# Eassa Ayoub - Real world AI and operator-readable systems
+# Eassa Ayoub - Cognitive-First Systems · Former Operator
 
 I build Rust and TypeScript infrastructure for AI workflows, with a focus on state, evidence, replay, and operator control.
 
 I came into software through mortgage operations, bookkeeping, SMB systems, retail hardware, and field technology, so I have a healthy distrust of anything that looks brilliant in a demo and falls apart the minute an actual operator touches it. I build the boring machinery underneath because that is usually where the expensive chaos is hiding.
+
+Most software makes users carry its complexity. I build software that feels like thinking — systems that match how humans actually work.
+
+The question is never "is this complex?" It's "WHO carries the complexity?" I vote computer.
 
 ## Current work
 
