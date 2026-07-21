@@ -1,4 +1,4 @@
-# Eassa Ayoub - AI workflow infrastructure, Rust, TypeScript, and operator-readable systems
+# Eassa Ayoub - AI workflow infrastructure and operator-readable systems
 
 I build Rust and TypeScript infrastructure for AI workflows, with a focus on state, evidence, replay, and operator control.
 
