@@ -1,20 +1,20 @@
-# Eassa Ayoub - Cognitive-First Systems · Former Operator
+# Eassa Ayoub · Cognitive-First Systems · Former Operator
 
 I build Rust and TypeScript infrastructure for AI workflows, with a focus on state, evidence, replay, and operator control.
 
 I came into software through mortgage operations, bookkeeping, SMB systems, retail hardware, and field technology, so I have a healthy distrust of anything that looks brilliant in a demo and falls apart the minute an actual operator touches it. I build the boring machinery underneath because that is usually where the expensive chaos is hiding.
 
-Most software makes users carry its complexity. I build software that feels like thinking — systems that match how humans actually work.
-
-The question is never "is this complex?" It's "WHO carries the complexity?" I vote computer.
+Most software makes users carry its complexity. I build software that feels like thinking — The question is never "is this complex?" It's "WHO carries the complexity?" I vote computer.
 
 ## Current work
 
 * [**batpak**](https://github.com/freebatteryfactory/batpak)
-  An embedded, sync-first event store with append-only history, verifiable receipts, deterministic replay, and derived projections.
-
+ > An embedded, sync-first event store with append-only history, verifiable receipts, deterministic replay, and derived projections.
+ - batpak docs: [batpak overview - append-only event history, receipts, replay, and proof surfaces](https://freebatteryfactory.com/batpak/overview)
+   
 * [**LiteShip / CZAP**](https://github.com/freebatteryfactory/LiteShip)
-  A constraint-based adaptive rendering system that projects shared state across CSS, GPU, ARIA, TypeScript, AI manifests, and runtime surfaces.
+ > A constraint-based adaptive rendering system that projects shared state across CSS, GPU, ARIA, TypeScript, AI manifests, and runtime surfaces.
+ - LiteShip docs: [LiteShip overview - adaptive projection for CSS, GPU, ARIA, AI manifests, and runtime surfaces](https://freebatteryfactory.com/liteship/overview)
 
 Currently building with [The Free Battery Factory](https://github.com/freebatteryfactory), a software systems lab focused on audit-grade event history, adaptive workflow surfaces, deterministic replay, release-gated packages, and evidence-bearing runtime boundaries.
 
@@ -22,5 +22,3 @@ Currently building with [The Free Battery Factory](https://github.com/freebatter
 
 - Personal site: [heyoub.dev - Eassa Ayoub, AI workflow infrastructure and systems builder](https://heyoub.dev)
 - Systems lab: [freebatteryfactory.com - The Free Battery Factory](https://freebatteryfactory.com)
-- batpak docs: [batpak overview - append-only event history, receipts, replay, and proof surfaces](https://freebatteryfactory.com/batpak/overview)
-- LiteShip docs: [LiteShip overview - adaptive projection for CSS, GPU, ARIA, AI manifests, and runtime surfaces](https://freebatteryfactory.com/liteship/overview)
