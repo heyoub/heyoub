@@ -2,7 +2,7 @@
 
 I build Rust and TypeScript infrastructure for AI workflows, with a focus on state, evidence, replay, and operator control.
 
-I came into software through mortgage operations, bookkeeping, SMB systems, and sales, so I have a healthy distrust of anything that looks brilliant in a demo and falls apart the minute an actual operator touches it. I build the boring machinery underneath because that is usually where the expensive chaos is hiding.
+I came into software through mortgage, bookkeeping, SMB systems, and sales, so I have a healthy distrust of anything that looks brilliant in a demo and falls apart the minute an actual operator touches it. I build the boring machinery underneath because that is usually where the expensive chaos is hiding.
 
 Most software makes users carry its complexity. I build software that feels like thinking — The question is never "is this complex?" It's "WHO carries the complexity?" I vote computer.
 
