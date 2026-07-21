@@ -8,13 +8,11 @@ Most software makes users carry its complexity. I build software that feels like
 
 ## Current work
 
-* [**batpak**](https://github.com/freebatteryfactory/batpak)
+* [**batpak**](https://github.com/freebatteryfactory/batpak) -- [docs](https://freebatteryfactory.com/batpak/overview)
  > An embedded, sync-first event store with append-only history, verifiable receipts, deterministic replay, and derived projections.
- - batpak docs: [batpak overview - append-only event history, receipts, replay, and proof surfaces](https://freebatteryfactory.com/batpak/overview)
    
-* [**LiteShip / CZAP**](https://github.com/freebatteryfactory/LiteShip)
+* [**LiteShip / CZAP**](https://github.com/freebatteryfactory/LiteShip) -- [docs](https://freebatteryfactory.com/liteship/overview)
  > A constraint-based adaptive rendering system that projects shared state across CSS, GPU, ARIA, TypeScript, AI manifests, and runtime surfaces.
- - LiteShip docs: [LiteShip overview - adaptive projection for CSS, GPU, ARIA, AI manifests, and runtime surfaces](https://freebatteryfactory.com/liteship/overview)
 
 Currently building with [The Free Battery Factory](https://github.com/freebatteryfactory), a software systems lab focused on audit-grade event history, adaptive workflow surfaces, deterministic replay, release-gated packages, and evidence-bearing runtime boundaries.
 
