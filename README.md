@@ -23,12 +23,12 @@ I build Rust and TypeScript systems through Free Battery Factory. I'm interested
 
 ## Systems I've built
 
-### [BatPAK](https://github.com/freebatteryfactory/batpak_DEPRECATED/tree/v0.10.0)
-**Event history · Rust + TypeScript SDK**
+### [Macroonz](https://github.com/freebatteryfactory/Macroonz)
+**Metaprogramming + adversarial testing · Rust**
 
-An embedded, sync-first event store built around append-only history, typed events, verifiable receipts, and deterministic replay. The Rust core and TypeScript SDK share canonical encodings so the same events mean the same thing on either side.
+Automate the repetitive code without handing over what it means. Macroonz combines a callable compiler, procedural macros, and a test harness. Recipes describe the structure; generated trials, faults, mutation, and replay challenge the resulting behavior. Your domain stays yours.
 
-[0.10.0 crate](https://crates.io/crates/batpak/0.10.0) · [TypeScript SDK](https://www.npmjs.com/package/@batpak/sdk) · [Documentation](https://docs.rs/batpak/0.10.0/batpak/)
+[Source](https://github.com/freebatteryfactory/Macroonz) · [Releases](https://github.com/freebatteryfactory/Macroonz/releases) · [crates.io](https://crates.io/crates/macroonz) · [Documentation](https://docs.rs/macroonz)
 
 ### [LiteShip / CZAP](https://github.com/freebatteryfactory/LiteShip/tree/v0.10.0)
 **Adaptive projection · TypeScript**
@@ -37,12 +37,13 @@ Continuous signals become named states, then project into CSS, graphics, accessi
 
 [0.10.0 source](https://github.com/freebatteryfactory/LiteShip/tree/v0.10.0) · [npm](https://www.npmjs.com/package/@czap/core/v/0.10.0) · [Documentation](https://freebatteryfactory.com/liteship/overview)
 
-### [Macroonz](https://github.com/freebatteryfactory/Macroonz)
-**Metaprogramming + adversarial testing · Rust**
+### [BatPAK](https://github.com/freebatteryfactory/batpak_DEPRECATED/tree/v0.10.0)
+**Event history · Rust**
 
-Automate the repetitive code without handing over what it means. Macroonz combines a callable compiler, procedural macros, and a test harness. Recipes describe the structure; generated trials, faults, mutation, and replay challenge the resulting behavior. Your domain stays yours.
+An embedded, sync-first event store built around append-only history, typed events, verifiable receipts, and deterministic replay. The Rust core and TypeScript SDK share canonical encodings so the same events mean the same thing on either side.
 
-[Source](https://github.com/freebatteryfactory/Macroonz) · [Releases](https://github.com/freebatteryfactory/Macroonz/releases) · [crates.io](https://crates.io/crates/macroonz) · [Documentation](https://docs.rs/macroonz)
+[0.10.0 crate](https://crates.io/crates/batpak/0.10.0) · [TypeScript SDK](https://www.npmjs.com/package/@batpak/sdk) · [Documentation](https://docs.rs/batpak/0.10.0/batpak/)
+
 
 ## What I'm working on now
 
